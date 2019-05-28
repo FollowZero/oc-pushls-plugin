@@ -1,0 +1,6 @@
+fields:
+    # 应用密钥
+    app_key:
+      span: left
+      label: plus.pushls::lang.settings.app_key
+      type: text

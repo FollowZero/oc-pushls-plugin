@@ -1,0 +1,6 @@
+plugin:
+    name: 'plus.pushls::lang.plugin.name'
+    description: 'plus.pushls::lang.plugin.description'
+    author: plus
+    icon: oc-icon-adjust
+    homepage: ''
